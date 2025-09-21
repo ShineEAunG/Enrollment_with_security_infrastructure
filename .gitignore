@@ -1,0 +1,6 @@
+# Ignore all local appsettings files that contain secrets
+bin/
+obj/
+appsettings.Development.json
+appsettings.Production.json
+
